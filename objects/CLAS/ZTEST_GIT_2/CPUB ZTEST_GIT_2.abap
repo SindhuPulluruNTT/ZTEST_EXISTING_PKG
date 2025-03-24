@@ -1,0 +1,7 @@
+CLASS ztest_git_2 DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+   INTERFACES if_oo_adt_classrun.
